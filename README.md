@@ -19,6 +19,12 @@ Operation is quite simple: Run the program and it will list the privileges of a 
   - Gets the assigned rights of identity 'Administrator'
   - Again, the identity can be a user or a group (and possibly other things, too)
 
+## Assignment of Rights
+One thing that tripped me up when researching this was how rights are assigned. Out of the box, Administrator will list no rights. How can the Administrator have
+no rights? That's because it's part of the Administrators group, and that group has rights assigned. The Administrator has no rights explicitly assigned.
+
+Point being, if you want to see **all of the rights**, you'll need to enumerate all groups a user is a member of (including the user itself).
+
 ## Credit
 I wouldn't have been able to do it without these resources:
 - https://web.archive.org/web/20151218044501/http://www.hightechtalks.com/csharp/lsa-functions-276626.html
