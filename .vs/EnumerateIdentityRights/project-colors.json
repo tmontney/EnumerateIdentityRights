@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f146123-0921-4d88-959a-60b3cf73ca29": {
+      "ProjectGuid": "7f146123-0921-4d88-959a-60b3cf73ca29",
+      "DisplayName": "EnumerateIdentityRights",
+      "ColorIndex": 0
+    },
+    "4238100e-8069-4526-85f3-8c63080cb5f5": {
+      "ProjectGuid": "4238100e-8069-4526-85f3-8c63080cb5f5",
+      "DisplayName": "EnumerateIdentityRights-UI",
+      "ColorIndex": 1
+    },
+    "0d1b1043-540a-417b-a67e-0c26ada47bcd": {
+      "ProjectGuid": "0d1b1043-540a-417b-a67e-0c26ada47bcd",
+      "DisplayName": "EnumerateIdentityRights-Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
