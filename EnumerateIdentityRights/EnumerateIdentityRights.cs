@@ -2,6 +2,7 @@
 // https://docs.microsoft.com/en-us/windows/win32/api/ntsecapi/nf-ntsecapi-lsaenumerateaccountrights
 // https://www.powershellgallery.com/packages/cUserRightsAssignment/1.0.0.0/Content/DSCResources%5CcUserRight%5CcUserRight.psm1
 // https://stackoverflow.com/a/14469248/1340075
+// https://stackoverflow.com/a/4615926/1340075
 
 using System.Runtime.InteropServices;
 using System.Security;

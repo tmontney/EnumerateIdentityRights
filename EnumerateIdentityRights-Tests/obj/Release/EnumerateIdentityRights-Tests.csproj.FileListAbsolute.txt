@@ -1,0 +1,17 @@
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\EnumerateIdentityRights-Tests.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\EnumerateIdentityRights-Tests.pdb
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\EnumerateIdentityRights.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\EnumerateIdentityRights.pdb
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\obj\Release\EnumerateIdentityRights-Tests.csproj.AssemblyReference.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\obj\Release\EnumerateIdentityRights-Tests.csproj.CoreCompileInputs.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\obj\Release\EnumerateIdentityRights-Tests.csproj.CopyComplete
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\obj\Release\EnumerateIdentityRights-Tests.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-Tests\obj\Release\EnumerateIdentityRights-Tests.pdb

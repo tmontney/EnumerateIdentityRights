@@ -1,0 +1,5 @@
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights\bin\Release\EnumerateIdentityRights.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights\bin\Release\EnumerateIdentityRights.pdb
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights\obj\Release\EnumerateIdentityRights.csproj.CoreCompileInputs.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights\obj\Release\EnumerateIdentityRights.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights\obj\Release\EnumerateIdentityRights.pdb

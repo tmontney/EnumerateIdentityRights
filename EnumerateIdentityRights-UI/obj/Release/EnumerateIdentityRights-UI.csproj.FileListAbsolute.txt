@@ -1,0 +1,11 @@
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\bin\Release\EnumerateIdentityRights-UI.exe.config
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\bin\Release\EnumerateIdentityRights-UI.exe
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\bin\Release\EnumerateIdentityRights-UI.pdb
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\bin\Release\EnumerateIdentityRights.dll
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\bin\Release\EnumerateIdentityRights.pdb
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.csproj.AssemblyReference.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.csproj.CoreCompileInputs.cache
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.csproj.CopyComplete
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.exe
+C:\Users\tyler.montney\source\repos\EnumerateIdentityRights\EnumerateIdentityRights-UI\obj\Release\EnumerateIdentityRights-UI.pdb
