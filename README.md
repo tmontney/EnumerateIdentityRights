@@ -34,3 +34,5 @@ I wouldn't have been able to do it without these resources:
   - Helped explain the ambiguous `LSA_UNICODE_STRING_withPointer` from https://www.pinvoke.net/default.aspx/advapi32.lsaenumerateaccountrights
 - https://stackoverflow.com/a/14469248/1340075
   - HTT code contains a flaw that releases memory too early, resulting in unpredictable behavior of `LsaEnumerateAccountRights`
+- https://stackoverflow.com/a/4615926/1340075
+  - If a user has no rights assigned, FILE_NOT_FOUND exception is thrown.
